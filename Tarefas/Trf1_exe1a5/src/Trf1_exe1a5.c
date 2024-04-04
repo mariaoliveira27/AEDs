@@ -81,10 +81,9 @@ printf("O novo salario é:%.2f", novoSalario);
 return 0;
 }
 
-//Função para calcular a gratificaçao e imposto
 
-#include <stdio.h>
-#include <stdlib.h>
+
+//Função para calcular a gratificaçao e imposto
 
 int main(void){
   float salario, gratificacao,imposto,valorAReceber;
