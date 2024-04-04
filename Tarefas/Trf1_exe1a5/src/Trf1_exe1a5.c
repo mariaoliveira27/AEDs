@@ -16,9 +16,9 @@
 int main(void){
 	int numeros;
 	int soma = 0;
-	int i;
+	
 
-	for(i=0; i<4; i++){
+	for(int i=0; i<4; i++){
 	printf("Digite 4 numeros inteiros:");
 	scanf("%d",&numeros);
 	soma+=numeros;
