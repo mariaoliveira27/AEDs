@@ -24,27 +24,27 @@ O objetivo deste curso é fornecer uma compreensão sólida dos seguintes tópic
 1- Introdução aos Algoritmos e Estrutura de Dados
 2- Complexidade de Tempo e Espaço
 3- Estruturas de Dados Lineares
-   -     Listas
-   -     Filas
-   -     Pilhas
+   -  Listas
+   -  Filas
+   -  Pilhas
 4- Árvores
-   -     Árvores Binárias
-   -     Árvores de Busca Binária
-   -     Árvores Balanceadas
+   -  Árvores Binárias
+   -  Árvores de Busca Binária
+   -  Árvores Balanceadas
 5- Grafos
-   -     Representações de Grafos
-   -     Busca em Grafos (BFS, DFS)
-   -     Algoritmos de Caminho Mais Curto
+   -  Representações de Grafos
+   -  Busca em Grafos (BFS, DFS)
+   -  Algoritmos de Caminho Mais Curto
 6- Algoritmos de Ordenação
-   -     Bubble Sort
-   -     Insertion Sort
-   -     Merge Sort
-   -     Quick Sort
+   -  Bubble Sort
+   -  Insertion Sort
+   -  Merge Sort
+   -  Quick Sort
 7- Algoritmos de Pesquisa
--     Pesquisa Linear
--     Pesquisa Binária
+- Pesquisa Linear
+- Pesquisa Binária
+
+![464a9f911e9fa854c2f76337d72c46c7-ezgif com-resize](https://github.com/mariaoliveira27/AEDs/assets/161609445/cf3224e5-14aa-4bcb-9620-b87621cd70e7)
 
 
-
-![464a9f911e9fa854c2f76337d72c46c7](https://github.com/mariaoliveira27/AEDs/assets/161609445/25c707aa-95a7-4f75-a4a4-78cfa982044a)
 
