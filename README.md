@@ -46,4 +46,5 @@ O objetivo deste curso é fornecer uma compreensão sólida dos seguintes tópic
 
 
 
+![464a9f911e9fa854c2f76337d72c46c7](https://github.com/mariaoliveira27/AEDs/assets/161609445/25c707aa-95a7-4f75-a4a4-78cfa982044a)
 
