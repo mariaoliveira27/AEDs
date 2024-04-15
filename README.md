@@ -1,8 +1,8 @@
 # Algoritmos e Estrutura de Dados
 
-Bem-vindo ao repositório do curso de Algoritmos e Estrutura de Dados!
 
-Bem-vindo ao Curso de Algoritmos e Estrutura de Dados! Neste curso, vamos explorar os fundamentos essenciais para a construção e análise de algoritmos eficientes, bem como a implementação de estruturas de dados para organizar e manipular informações de forma otimizada.
+
+Bem-vindo ao repositório do curso de Algoritmos e Estrutura de Dados! Neste curso, vamos explorar os fundamentos essenciais para a construção e análise de algoritmos eficientes, bem como a implementação de estruturas de dados para organizar e manipular informações de forma otimizada.
 
 ## Conteúdo
 
