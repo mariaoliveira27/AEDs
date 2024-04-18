@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : prj_arvoredeNatal.c
- Author      : 
+ Author      : Maria Clara
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
