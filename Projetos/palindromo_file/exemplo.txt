@@ -1,0 +1,4 @@
+A palavra osso é palindromo.
+A palavra arara é palindromo.
+A palavra ponte não é um palindromo.
+A palavra lista não é um palindromo.
