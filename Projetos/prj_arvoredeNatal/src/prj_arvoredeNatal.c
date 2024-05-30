@@ -98,11 +98,11 @@ for(int i = tamanho - 1; i>=1; i--){
     }
     printf("\n");
 }
-
-int main(void){
+}
+int main(void) {
     int tamanho;
-    natalTree1( tamanho);
-	natalTree2(tamanho);
-	natalTree3( tamanho);
+        natalTree1(tamanho);
+        natalTree2(tamanho);
+        natalTree3(tamanho);
     return 0;
 }
