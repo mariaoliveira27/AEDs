@@ -56,6 +56,7 @@ int main(void){
 	printf("A soma dos elementos do array é %d\n", soma);
 	return 0;
 }
+//04
 int somaRecursiva(int A[], int n, int indice){
 	if(indice == 0);
 	return 0;
