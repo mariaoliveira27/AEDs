@@ -113,7 +113,7 @@ public class App {
         System.out.print("Digite a descrição do produto: ");
         String desc = teclado.nextLine();
         Produto busca = new ProdutoNaoPerecivel(desc, 0.1);
-        Produto encontrado = buscador.buscar(busca);
+        Produto encontrado = buscador.buscar(busca, produtosCadastrados);
         
         return encontrado;
     }
@@ -163,10 +163,14 @@ public class App {
     }
     
     static void fazerBuscaSequencial() {
+        BuscaSequencial<Produto> buscardor = new BuscaSequencial<>();
+        buscar(buscardor);
         // TODO
     }
 
     static void fazerBuscaBinaria() {
+       BuscaBinaria<Produto> buscadorr = new BuscaBinaria<>();
+       buscar(buscadorr);
         // TODO
     }
 
