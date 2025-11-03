@@ -31,20 +31,20 @@ O objetivo deste curso é fornecer uma compreensão sólida dos seguintes tópic
    -  Árvores Binárias
    -  Árvores de Busca Binária
    -  Árvores Balanceadas
-## 5- Grafos
-   -  Representações de Grafos
-   -  Busca em Grafos (BFS, DFS)
-   -  Algoritmos de Caminho Mais Curto
-## 6- Algoritmos de Ordenação
+## 5- Algoritmos de Ordenação
    -  Bubble Sort
    -  Insertion Sort
    -  Merge Sort
    -  Quick Sort
-## 7- Algoritmos de Pesquisa
+## 6- Algoritmos de Pesquisa
    -  Pesquisa Linear
    -  Pesquisa Binária
- 
-![464a9f911e9fa854c2f76337d72c46c7-ezgif com-resize](https://github.com/mariaoliveira27/AEDs/assets/161609445/cf3224e5-14aa-4bcb-9620-b87621cd70e7)
+## 7- Grafos
+   -  Representações de Grafos
+   -  Busca em Grafos (BFS, DFS)
+   -  Algoritmos de Caminho Mais Curto
+
+
 
 
 
